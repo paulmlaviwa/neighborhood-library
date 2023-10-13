@@ -1,6 +1,5 @@
 package com.pluralsight;
 import java.util.Scanner;
-import java.util.Scanner;
 
 public class Library {
     private Book[] books;
